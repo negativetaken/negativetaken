@@ -1,6 +1,6 @@
 **- 👋 Hi, I’m @negativetaken**<br>
 **- ✉️You can talk to me on discord. @Negative#2402**<br>
-**- 💻html/css/php/js/lua software developer.**<br>
+**- 💻html/css/php/js/react native/lua software developer.**<br>
 **- 🛠self learner & developer of night media**<br>
 **- 📌freelancer software developer**
 
